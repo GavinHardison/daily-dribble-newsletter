@@ -1,3 +1,3 @@
 # The Daily Dribble
 
-Simple front-end for a hypothetical soccer newsletter.
+Simple front-end webpage for a hypothetical soccer newsletter.
