@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s04jpi8",
-  "description": "https://scrimba.com/learn-html-and-css-c0p/~01b",
+  "name": "daily-dribble-newsletter",
+  "description": "Simple front-end for a hypothetical soccer newsletter.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
